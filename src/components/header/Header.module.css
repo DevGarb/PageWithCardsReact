@@ -1,0 +1,28 @@
+.headerTop {
+  display: flex;
+  justify-content: space-between;
+  background-color: #333;
+  align-items: center;
+  padding: 20px;
+}
+
+.logoImg {
+  font-size: 25px;
+  color: white;
+}
+
+.menuItens {
+  display: flex;
+  gap: 15px;
+}
+
+
+@media (max-width: 600px) {
+    .menuMobile {
+      display: flex;
+    }
+    .Menu {
+      display: none;
+    }
+  }
+  

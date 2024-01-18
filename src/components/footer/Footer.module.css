@@ -1,0 +1,14 @@
+.footer {
+  display: flex;
+  color: white;
+  background-color: #333;
+  justify-content: space-evenly;
+}
+
+.footerMenu {
+  display: flex;
+  align-content: flex-start;
+  flex-direction: column;
+  padding: 20px;
+  gap: 3px;
+}
