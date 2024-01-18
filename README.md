@@ -14,7 +14,7 @@ O projeto ainda está em desenvolvimento e as próximas atualizações serão vo
 - [ ] Cadastro de Usuários com Backend
 - [x] Built with ReactJs + Vite
 
-## 🤝 Colaboradores
+## 🤝 Colaborador
 
 Agradecemos às seguintes pessoas que contribuíram para este projeto:
 
