@@ -16,8 +16,6 @@ O projeto ainda está em desenvolvimento e as próximas atualizações serão vo
 
 ## 🤝 Colaborador
 
-Agradecemos às seguintes pessoas que contribuíram para este projeto:
-
 <table>
   <tr>
     <td align="center">
