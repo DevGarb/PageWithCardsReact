@@ -30,4 +30,3 @@ Agradecemos às seguintes pessoas que contribuíram para este projeto:
     </td>
   </tr>
 </table>
-![image](https://github.com/DevGarb/PageWithCardsReact/assets/149628280/d5f7e3dd-42e3-4c0c-b528-0a7048bf1afa)
